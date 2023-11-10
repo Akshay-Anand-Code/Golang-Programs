@@ -1,0 +1,21 @@
+go 1.18
+
+use (
+	./Files
+	./JsonData
+	./Server
+	./Slice
+	./Struct
+	./Web-requests
+	./buildAPI
+	./mod
+	./mongoAPI
+	./goroutines
+	./Pointers
+	./WorkerPool
+	./CCI
+	./waitGroup
+	./raceCondition
+	./channels
+
+)
