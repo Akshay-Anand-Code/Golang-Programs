@@ -17,5 +17,6 @@ use (
 	./waitGroup
 	./raceCondition
 	./channels
-
+	./test
+    ./BulletProof-DynamoDB-GO/BulletProof-DynamoDB-GO
 )
